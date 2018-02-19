@@ -1,0 +1,62 @@
+<!-- Protein Sequencing Tools -->
+
+<p>Here are some brief instructions for using some amino acid sequencing tools. There are "Help" pages in each program's website. This page is just a place for you to get started. Once you are familiar with the program, you can experiment with different parameters or settings.</p>
+<h2>LALIGN</h2>
+<p><a href="http://www.ch.embnet.org/software/LALIGN_form.html" target="_blank">Go to LALIGN Server</a></p>
+<p>Keep "default" setting unless specified below.</p>
+<ol>
+   <li>Change the "Choose the alignment method" to "Global without end-gap penalty".</li>
+   <li>Change "Number of reported sub-alignments" to 1.</li>
+   <li>Copy your two sequences and paste them to the two text fields respecitivly. Note: your input sequence need to match the "Input sequence format" of your chice. Choose "plain text" if your sequence only contains plain amino acid sequence (no "&lt;", ";" -- symbols).</li>
+   <li>Then run LALIGN</li>
+   <li>
+      Result:
+      <ul>
+         <li>You will see the percentage of identities and the two sequences aligned parallelly. Sequence1 will show on top of sequence2.</li>
+         <li>By default: ":" means two amino acids or nucleotides are the same within the two sequences. "." means the second a.a or nucleotide is a conservative replacement of the first one, " " means non-conservative replacements.</li>
+      </ul>
+   </li>
+   <li>Note: this tool is not very senstitive which means if your two sequences contains thousands of amino acids or nucleotides and only one of the a.a. or nucleotide is different in these two sequences, it will show 100% identity. However, you can still find the difference by carefully checking the comparison result.</li>
+</ol>
+<h2>SIM + LALNVIEW</h2>
+<p><a href="http://web.expasy.org/error/removed.html" target="_blank">Go to SIM Alignment Tool</a></p>
+<p>Use default value unless specified below.</p>
+<ol>
+   <li>Select "User-entered sequence"</li>
+   <li>
+      Parameters
+      <ul>
+         <li>Number of alignments to be computed: 1</li>
+      </ul>
+   </li>
+   <li>
+      Result:
+      <ul>
+         <li>-Will show the percentage of identity between two sequences.</li>
+         <li>"*" under each comparison means these two amino acids or nucleotides are the same. Thus, if you want to find differences between two sequences, find the one without "*".</li>
+      </ul>
+   </li>
+   <li>Note: Same as LALIGN, if you have thousands of amino acids or nucleotide in the sequence and only one difference between two sequences, this program will show 100% identity between these two sequences. However, by looking into the result, you are able to find the only one difference between the two sequences.</li>
+</ol>
+<h2>DOTLET</h2>
+<p><a href="http://alggen.lsi.upc.es/softpublic/dotlet/Dotlet.html" target="_blank">Go to DOTLET</a></p>
+<p>The "<a href="http://ccg.vital-it.ch/java/dotlet/dotlet_help.html" target="_blank">need help?</a>" page is very helpful</p>
+<ol>
+   <li>Enter your sequence by pressing "input" botton, a dialog will show that allows you to pick a name for your sequence. Paste your sequence into the text box. Hit "ok". Then press "input" botton again to enter the second sequence. Repeat this process if needed.</li>
+   <li>Then pick two sequences you want to compare with.</li>
+   <li>Hit "compute" to get the comarison result.</li>
+   <li>
+      Result:
+      <ul>
+         <li>See "<a href="http://ccg.vital-it.ch/java/dotlet/dotlet_help.html" target="_blank">need help?</a>" for result interpretation.</li>
+      </ul>
+   </li>
+   <li>
+      Note:
+      <ul>
+         <li>For this program, it might not be easy to understand the histogram if you are a first time user. Try to copy two totally different sequences (with big variatiation between two sequences, such as in length), compute the differences and get a sense on how the histogram is like. Then you can start to work on two very similar sequences and get a better sense on how they differ from each other.</li>
+         <li>You always can use the "Alignment" tool down in the bottom to compare two sequences by doing one by one comparison.</li>
+      </ul>
+   </li>
+</ol>
+
