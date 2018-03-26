@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Construct a 4D Embryo | WormClassroom
 permalink: /construct-a-4d-embryo
 ---
 This is the same embryo as the one you just

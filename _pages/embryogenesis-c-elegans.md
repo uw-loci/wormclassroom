@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Embryogenesis of C. elegans | WormClassroom
 permalink: /embryogenesis-of-c-elegans
 ---
 This movie shows a wild type *C. elegans* embryogenesis (from an embryo

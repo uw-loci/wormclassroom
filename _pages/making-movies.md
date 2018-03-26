@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Making the Movies | WormClassroom
 permalink: /making-the-movies
 ---
 One of the most prevalent types of microscopy is the optical sectioning

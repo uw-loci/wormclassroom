@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Survey of C. elegans Curricula (1999) | WormClassroom
 permalink: /survey-of-c-elegans-curricula
 ---
 Morgan (1999) noted that \"Many of the features that make *C. elegans*

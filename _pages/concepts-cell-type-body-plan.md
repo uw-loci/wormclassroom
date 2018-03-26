@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Concepts of Cell Type in Body Plan | WormClassroom
 permalink: /concepts-of-cell-type-in-body-plan
 ---
 As you already know, the human body is composed of various kinds of

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Meet the Worm - Caenorhabditis elegans | WormClassroom
 permalink: /meet-the-worm
 ---
 *C. elegans* is a free-living, non-parasitic soil nematode that can be

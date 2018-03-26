@@ -1,5 +1,6 @@
 ---
 layout: page
+title: A Short History of C. elegans Research | WormClassroom
 permalink: /a-short-history-of-c-elegans-research
 ---
 \[img\_assist\|nid=29\|title=Dr. Sydney

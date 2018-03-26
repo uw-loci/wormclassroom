@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Embryo Development in 4D | WormClassroom
 permalink: /embryo-development-in-4d
 ---
 It is very labor intensive to lineage an embryo\'s development. If you

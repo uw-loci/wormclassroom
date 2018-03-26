@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching With Model Organisms | WormClassroom
 permalink: /teaching-with-model-organisms
 ---
 Model organisms are those that useful data sets have been already

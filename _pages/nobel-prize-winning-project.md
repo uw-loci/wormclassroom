@@ -1,5 +1,6 @@
 ---
 layout: page
+title: A Nobel Prize Winning Project | WormClassroom
 permalink: /nobel
 ---
 ![John Sulston, Nobel

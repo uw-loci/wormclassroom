@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About the Cell Lineage Module | WormClassroom
 permalink: /about-the-cell-lineage-module
 ---
 \"Learning Modules\" are being developed on WormClassroom to serve as an

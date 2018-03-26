@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Scanning Electron Microscopy (SEM) | WormClassroom
 permalink: /scanning-electron-microscopy
 ---
 \[img\_assist\|nid=302\|title=\|desc=\|link=node\|align=none\|width=400\|height=328\]

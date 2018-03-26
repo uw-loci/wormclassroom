@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Teaching With C. elegans | WormClassroom
 permalink: /teaching-with-c-elegans
 ---
 *C. elegans* has grown its popularity in the classroom. At the 12th *C.

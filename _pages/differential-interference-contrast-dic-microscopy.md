@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Differential Interference Contrast (DIC) Microscopy | WormClassroom
 permalink: /differential-interference-contrast-microscop
 ---
 The specimen can be viewed live and internal structures can be

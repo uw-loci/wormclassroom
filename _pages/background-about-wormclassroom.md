@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Background - About WormClassroom | WormClassroom
 permalink: /background
 ---
 WormClassroom is intended to serve as an education portal for the
