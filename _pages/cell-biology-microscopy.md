@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cell Biology &amp; Microscopy | WormClassroom
-permalink: /cell-biology-and-microscopy
+permalink: /cell-biology-microscopy
 ---
 Fixed Versus Live Specimens
 ---------------------------

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Background - About WormClassroom | WormClassroom
-permalink: /background
+permalink: /background-about-wormclassroom
 ---
 WormClassroom is intended to serve as an education portal for the
 research model organism *Caenorhabditis elegans* (*C. elegans*; within

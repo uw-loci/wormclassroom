@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Survey of C. elegans Curricula (1999) | WormClassroom
-permalink: /survey-of-c-elegans-curricula
+permalink: /survey-c-elegans-curricula-1999
 ---
 Morgan (1999) noted that \"Many of the features that make *C. elegans*
 an excellent research organism - its small size, rapid life cycle, and

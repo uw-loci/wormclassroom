@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching With C. elegans | WormClassroom
-permalink: /teaching-with-c-elegans
+permalink: /teaching-c-elegans
 ---
 *C. elegans* has grown its popularity in the classroom. At the 12th *C.
 elegans* Meeting held at the University of Wisconsin-Madison in 1999,

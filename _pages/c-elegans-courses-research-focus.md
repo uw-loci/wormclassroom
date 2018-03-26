@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C. elegans in Courses With Research Focus | WormClassroom
-permalink: /c-elegans-in-courses-with-research-focus
+permalink: /c-elegans-courses-research-focus
 ---
 ### [Introductory Genetics ]{style="color: #800040;"}
 

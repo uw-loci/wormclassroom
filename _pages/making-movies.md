@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Making the Movies | WormClassroom
-permalink: /making-the-movies
+permalink: /making-movies
 ---
 One of the most prevalent types of microscopy is the optical sectioning
 microscope (including phase, nomarski and confocal microscope), where

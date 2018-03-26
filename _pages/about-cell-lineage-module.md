@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About the Cell Lineage Module | WormClassroom
-permalink: /about-the-cell-lineage-module
+permalink: /about-cell-lineage-module
 ---
 \"Learning Modules\" are being developed on WormClassroom to serve as an
 interactive and self-contained learning environment complete with its

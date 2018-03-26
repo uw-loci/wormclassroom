@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Differential Interference Contrast (DIC) Microscopy | WormClassroom
-permalink: /differential-interference-contrast-microscop
+permalink: /differential-interference-contrast-dic-microscopy
 ---
 The specimen can be viewed live and internal structures can be
 visualized. It is used to generate 3-dimensional (3D) and 4D datasets.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Nobel Prize Winning Project | WormClassroom
-permalink: /nobel
+permalink: /nobel-prize-winning-project
 ---
 ![John Sulston, Nobel
 laureate](files/worm/LineageBRSulstonS.jpg){width="500" height="335"}

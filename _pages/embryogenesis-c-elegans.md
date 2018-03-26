@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Embryogenesis of C. elegans | WormClassroom
-permalink: /embryogenesis-of-c-elegans
+permalink: /embryogenesis-c-elegans
 ---
 This movie shows a wild type *C. elegans* embryogenesis (from an embryo
 to a worm). Please observe this movie and come up with your observations

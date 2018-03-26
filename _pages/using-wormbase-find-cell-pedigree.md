@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using WormBase to find Cell Pedigree | WormClassroom
-permalink: /using-wormbase-to-find-cell-pedigree
+permalink: /using-wormbase-find-cell-pedigree
 ---
 ![WormBase main page](files/worm/CEWB.jpg){width="550"}
 

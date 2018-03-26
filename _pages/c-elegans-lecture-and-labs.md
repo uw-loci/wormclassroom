@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C. elegans in Lecture and Labs | WormClassroom
-permalink: /c-elegans-in-lecture-and-labs
+permalink: /c-elegans-lecture-and-labs
 ---
 Most of the educators use *C. elegans* in laboratory sessions that
 accompany a lecture course.

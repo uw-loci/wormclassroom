@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C. elegans in Education | WormClassroom
-permalink: /c-elegans-in-education
+permalink: /c-elegans-education
 ---
 ### An Ideal Model Organism in Teaching
 

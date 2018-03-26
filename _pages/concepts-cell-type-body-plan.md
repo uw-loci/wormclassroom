@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concepts of Cell Type in Body Plan | WormClassroom
-permalink: /concepts-of-cell-type-in-body-plan
+permalink: /concepts-cell-type-body-plan
 ---
 As you already know, the human body is composed of various kinds of
 cells such as muscle cells, nerve cells, and epithelia cells. Organisms

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transmission Electron Microscopy (TEM) | WormClassroom
-permalink: /transmission-electron-microscopy
+permalink: /transmission-electron-microscopy-tem
 ---
 \[img\_assist\|nid=301\|title=\|desc=\|link=node\|align=none\|width=400\|height=313\]
 

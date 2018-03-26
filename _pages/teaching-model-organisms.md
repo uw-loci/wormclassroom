@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching With Model Organisms | WormClassroom
-permalink: /teaching-with-model-organisms
+permalink: /teaching-model-organisms
 ---
 Model organisms are those that useful data sets have been already
 gathered to describe basic biological processes. And they are more

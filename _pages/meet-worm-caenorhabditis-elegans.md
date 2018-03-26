@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meet the Worm - Caenorhabditis elegans | WormClassroom
-permalink: /meet-the-worm
+permalink: /meet-worm-caenorhabditis-elegans
 ---
 *C. elegans* is a free-living, non-parasitic soil nematode that can be
 found throughout the world. It is transparent and about [1mm in
