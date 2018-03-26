@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /family-tree-vs-cell-lineage
+---
 Think about the development of a human family tree, cells inside *C.
 elegans* and even cells inside your body. What are the similarities and
 differences between them?

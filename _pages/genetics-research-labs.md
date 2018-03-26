@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetics-research-labs
+---
 ### Cell Division & Cell Polarity {#cell-division-cell-polarity .title}
 
 -   [Ahna Skop](http://skoplab.weebly.com/)

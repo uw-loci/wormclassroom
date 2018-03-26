@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /evolutionary-biology
+---
 Instructional Materials
 -----------------------
 

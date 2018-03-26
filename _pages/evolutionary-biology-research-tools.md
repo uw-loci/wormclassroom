@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /evolutionary-biology-research-tools
+---
 In *C. elegans*, most workers are working on comparative developmental
 biology. As a result, they take advantage of all of the normal tools of
 *C. elegan*s developmental biology and also try to apply them to related

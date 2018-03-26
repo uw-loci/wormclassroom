@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /movie-information
+---
 Embryos\' Ancestors {#embryos-ancestors style="text-align: left;"}
 -------------------
 

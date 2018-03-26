@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /neuroscience
+---
 Instructional Materials
 -----------------------
 

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetic-techniques-crosses
+---
 <div>
 
 If you would like to [contribute](contribute) to this page, please

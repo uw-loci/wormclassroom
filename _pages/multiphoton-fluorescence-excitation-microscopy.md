@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /multiphoton-fluorescence-excitation-microscopy
+---
 Multiphoton microscopy is used to generate high resolution optical
 sections to image fluorescent signals, usually in live specimens.
 

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about-c-elegans
+---
 ### *C. elegans*: the worm
 
 *C. elegans* is a free-living, non-parasitic soil nematode that can be

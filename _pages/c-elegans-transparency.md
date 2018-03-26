@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-transparency
+---
 Wildtype *C. elegans* Embryo Development
 ----------------------------------------
 

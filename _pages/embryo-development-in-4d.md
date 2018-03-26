@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /embryo-development-in-4d
+---
 It is very labor intensive to lineage an embryo\'s development. If you
 skip one day, you lose track of some cell divisions (Sulston, 1983).
 Now, with the help of advanced technologies and software development,

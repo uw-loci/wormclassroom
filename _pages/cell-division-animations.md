@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-division-animations
+---
 Provided are two animations. The upper one illustrates common phenomena
 observed from one cell dividing into two cells. The lower one
 demonstrates early *C. elegans* embryo cell division. For more mitosis

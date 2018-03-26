@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /contribute
+---
 Have something to add? **[Contribute to
 WormClassroom](node/add/resource)**! Just fill out a short form
 including your name, your institution, and a short description of the

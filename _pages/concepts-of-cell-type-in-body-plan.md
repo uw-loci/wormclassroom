@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /concepts-of-cell-type-in-body-plan
+---
 As you already know, the human body is composed of various kinds of
 cells such as muscle cells, nerve cells, and epithelia cells. Organisms
 like *C. elegans* are also composed of different cell types to form

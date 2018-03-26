@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /lab-environment-and-growth-conditions
+---
 <div>
 
 ::: {style="text-align: center;"}

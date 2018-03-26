@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genotype-vs-phenotype-background
+---
 <div>
 
 ::: {style="text-align: center;"}

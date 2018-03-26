@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /example-research-cell-lineage
+---
 Being transparent and amenable to laboratory manipulation, *C. elegans*
 cell lineage was first completed by John Sulston in the 1980s. Cell
 lineage is similar to the family tree of cells. The development of a

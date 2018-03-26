@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /human-family-tree
+---
 What does your family tree look like? What do other people\'s family
 trees look like? An example family tree is provided to get you thinking
 about the idea of a family tree and the organization of a tree structure

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-division-and-polarity
+---
 Symmetric vs. Asymmetric Cell Division
 --------------------------------------
 

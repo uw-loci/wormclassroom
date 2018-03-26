@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /page-not-found
+---
 ::: {.node}
 ::: {.content}
 We\'re sorry, but that page cannot be found.

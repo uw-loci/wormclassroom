@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /background-resources
+---
 Background information such as what a cell lineage is, how a cell
 lineage can be mapped and how cells develop into different cell types.
 Includes short summaries and links to other websites.

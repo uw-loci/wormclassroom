@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /confocal-microscopy
+---
 Confocal microscopy is used for imaging fluorescent signals, usually in
 fixed specimens. It generates high resolution optical sections.
 

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /transmission-electron-microscopy
+---
 \[img\_assist\|nid=301\|title=\|desc=\|link=node\|align=none\|width=400\|height=313\]
 
 This is a *C. elegans* embryo (surrounded by other embryos) at the

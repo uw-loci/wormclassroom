@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /meet-the-worm
+---
 *C. elegans* is a free-living, non-parasitic soil nematode that can be
 found throughout the world. It is transparent and about [1mm in
 size](https://www.cellsalive.com/howbig.htm). \"Worm\" is its nickname.

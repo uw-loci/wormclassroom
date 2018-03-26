@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about-us
+---
 **Project Lead**
 ----------------
 

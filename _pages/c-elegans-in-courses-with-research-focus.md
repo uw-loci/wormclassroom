@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-in-courses-with-research-focus
+---
 ### [Introductory Genetics ]{style="color: #800040;"}
 
 The \"Project Lab\", which is a research-intensive course, offered by

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-biology-and-microscopy
+---
 Fixed Versus Live Specimens
 ---------------------------
 

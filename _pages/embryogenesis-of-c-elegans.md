@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /embryogenesis-of-c-elegans
+---
 This movie shows a wild type *C. elegans* embryogenesis (from an embryo
 to a worm). Please observe this movie and come up with your observations
 and questions for discussion. Some [background information on cell

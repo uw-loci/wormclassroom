@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetics-questions
+---
 These questions are not intended to test your knowledge but rather to
 stimulate your curiosity and to help you understand the kinds of
 questions researchers are investigating.

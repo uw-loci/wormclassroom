@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /differential-interference-contrast-microscop
+---
 The specimen can be viewed live and internal structures can be
 visualized. It is used to generate 3-dimensional (3D) and 4D datasets.
 

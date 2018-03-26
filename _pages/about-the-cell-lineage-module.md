@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about-the-cell-lineage-module
+---
 \"Learning Modules\" are being developed on WormClassroom to serve as an
 interactive and self-contained learning environment complete with its
 own learning objectives. The *C. elegans* Cell Lineage learning module

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-biology-research-labs
+---
 ### Cell Division & Cell Polarity {#cell-division-cell-polarity .title}
 
 -   [Donald Moerman](http://www.zoology.ubc.ca/%7Ealorch/homepage.php)

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /survey-of-c-elegans-curricula
+---
 Morgan (1999) noted that \"Many of the features that make *C. elegans*
 an excellent research organism - its small size, rapid life cycle, and
 ease of cultivation - also make it useful for undergraduate instruction,

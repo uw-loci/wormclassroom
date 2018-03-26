@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /teaching-with-model-organisms
+---
 Model organisms are those that useful data sets have been already
 gathered to describe basic biological processes. And they are more
 amenable to asking certain questions due to their simplicity of

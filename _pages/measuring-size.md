@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /measuring-size
+---
 [[You]{style="color: #000000;"}]{style="color: #009f00;"} might have
 questions regarding the embryos\' size (or any kinds of size problems)
 during embryognesis. This page provides you a chance to investigate your

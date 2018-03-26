@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetics
+---
 Instructional Materials
 -----------------------
 

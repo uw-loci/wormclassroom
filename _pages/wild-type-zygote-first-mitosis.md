@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /wild-type-zygote-first-mitosis
+---
 ### Zygote
 
  

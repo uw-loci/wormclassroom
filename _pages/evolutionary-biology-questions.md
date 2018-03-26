@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /evolutionary-biology-questions
+---
 1.  Why does a cell divide?
 2.  Do all cells divide in the same manner? What things are similar and
     what things are different between the division of different types of

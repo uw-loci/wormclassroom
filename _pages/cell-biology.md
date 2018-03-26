@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-biology
+---
 Instructional Materials
 -----------------------
 

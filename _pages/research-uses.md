@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /research-uses
+---
 ### Fundamental Questions Pursued
 
 As described in [About *C. elegans*](about-c-elegans), *C. elegans* is a

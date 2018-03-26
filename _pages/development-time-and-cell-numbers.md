@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /development-time-and-cell-numbers
+---
 A 4D movie (3D plus time) that contains time lapse images of
 embryogenesis provides you opportunities to ask questions that cannot be
 asked with a 3D movie alone. These questions might include, \"What\'s

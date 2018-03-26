@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /evolutionary-biology-research-labs
+---
 <div>
 
 ### Evolutionary Genetics {#evolutionary-genetics .title}

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /protein-information
+---
 Notes from the researcher:
 
 -   The researcher (Dr. [Kevin

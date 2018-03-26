@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /welcome
+---
 WormClassroom is intended to serve as an education portal for the
 research model organism *Caenorhabditis elegans* (*C. elegans*); within
 the field it is also known as the \"worm\". Information about what *C.

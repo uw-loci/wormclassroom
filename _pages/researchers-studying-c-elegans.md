@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /researchers-studying-c-elegans
+---
 ### Worm Researchers
 
 -   [Worm

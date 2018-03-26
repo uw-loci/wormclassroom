@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /antibody-specific-labeling
+---
 Antibodies (Ab)
 ---------------
 

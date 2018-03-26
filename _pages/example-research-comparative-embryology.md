@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /example-research-comparative-embryology
+---
 It has long been hypothesized that small changes in the pattern of cell
 division, cell migration, and programmed cell death in early
 embryogenesis could result in significant patterning differences latter

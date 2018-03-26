@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /unspliced-genome
+---
 -   Try to combine the info here with the **[Spliced
     Genome](spliced-genome)**. Interesting perspectives might be found,
     such as the length of the sequences, and the number of codons.

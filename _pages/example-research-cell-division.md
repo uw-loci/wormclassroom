@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /example-research-cell-division
+---
 How does a cell manage to divide into two cells? Why are development
 arrested? The study of cell division in *C. elegans* helps us uncover
 the relationship between genes and their expressions.

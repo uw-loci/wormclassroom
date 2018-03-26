@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /protein-sequencing-tools
+---
 Here are some brief instructions for using some amino acid sequencing
 tools. There are \"Help\" pages in each program\'s website. This page is
 just a place for you to get started. Once you are familiar with the

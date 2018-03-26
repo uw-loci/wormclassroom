@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetic-techniques-gene-mapping
+---
 If you would like to [contribute](contribute) to this page, please
 include as much of the following as possible:
 

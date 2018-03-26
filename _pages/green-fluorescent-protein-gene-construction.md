@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /green-fluorescent-protein-gene-construction
+---
 GFP is a protein found in *Aequorea victoria*, a bioluminescent
 jellyfish. In order to visualize a particular protein you can attach GPF
 to your protein so that it will fluoresce. This is done by taking the

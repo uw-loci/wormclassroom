@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /real-movie-vs-animation
+---
 Movies on the top show a *C. elegans* embryo dividing from 1-cell to
 4-cell stage. Their matching animations are on the bottom. Please note
 that the developmental timing of the real embryo (top) and the animation

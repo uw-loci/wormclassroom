@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-cultivation
+---
 Life Cycle {#life-cycle .subtitle}
 ----------
 

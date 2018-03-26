@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /spliced-genome
+---
 <div>
 
 -   Combine the information here with the **[Protein

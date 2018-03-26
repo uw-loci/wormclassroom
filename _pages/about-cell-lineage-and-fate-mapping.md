@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /about-cell-lineage-and-fate-mapping
+---
 Commonly known as \"worm\" in *C. elegans* research community, it is a
 tiny free living nematode. Read [more about *C.
 elegans*](/about-c-elegans "About C. elegans")\....\

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /searching-wormbase
+---
 -   The [WormBase home page](http://www.wormbase.org) provides a quick
     search box, which is FIND =\> pick \"Any Gene\", then type in
     *zyg-1* in the search box.

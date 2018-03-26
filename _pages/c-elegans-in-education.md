@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-in-education
+---
 ### An Ideal Model Organism in Teaching
 
 *C. elegans* has grown its popularity in the classroom. At the 12th *C.

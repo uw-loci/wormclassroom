@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /registration-required
+---
 ::: {.node}
 ::: {.content}
 We\'re sorry, but this page is available to registered users only.

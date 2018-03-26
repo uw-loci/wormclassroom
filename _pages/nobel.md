@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /nobel
+---
 ![John Sulston, Nobel
 laureate](files/worm/LineageBRSulstonS.jpg){width="500" height="335"}
 

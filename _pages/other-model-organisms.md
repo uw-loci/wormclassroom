@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /other-model-organisms
+---
 Eukaryotic
 ----------
 

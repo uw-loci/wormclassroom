@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genetic-techniques-screen
+---
 <div>
 
 If you would like to [contribute](contribute) to this page, please

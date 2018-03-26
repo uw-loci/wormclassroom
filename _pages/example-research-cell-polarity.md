@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /example-research-cell-polarity
+---
 The uneven division during the first cell cycle of *C. elegans*
 embryogenesis is illustrated as an example cell biology research.
 

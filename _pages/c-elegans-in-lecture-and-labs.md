@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-in-lecture-and-labs
+---
 Most of the educators use *C. elegans* in laboratory sessions that
 accompany a lecture course.
 

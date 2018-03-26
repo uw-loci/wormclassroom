@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /teaching-with-c-elegans
+---
 *C. elegans* has grown its popularity in the classroom. At the 12th *C.
 elegans* Meeting held at the University of Wisconsin-Madison in 1999,
 several educators presented their uses of *C. elegans* as an educational

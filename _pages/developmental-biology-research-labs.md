@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /developmental-biology-research-labs
+---
 <div>
 
 ### Aging {#aging .title}

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /making-4d-movies
+---
 One of the most prevalent types of microscopy is the optical sectioning
 microscope (including phase, nomarski and confocal microscope), where
 the researcher can make 4-dimensional recordings (3D + time) of their

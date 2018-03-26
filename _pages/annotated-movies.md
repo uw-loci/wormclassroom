@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /annotated-movies
+---
 -   **Wild Type**
     -   [Zygote, pronuclear meeting, and first
         mitosis](wild-type-zygote-first-mitosis)

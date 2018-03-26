@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /wild-type-2-8-cell-embryo
+---
 ### 2-cell Embryo
 
  

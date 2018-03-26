@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-cell-lineage
+---
 Below is the opportunity for you to lineage the embryo development of
 *C. elegans* up to the 8-cell stage. You might want to visit [Human
 Family Tree](/human-family-tree "Human Family Tree") to start thinking

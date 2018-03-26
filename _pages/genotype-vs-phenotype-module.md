@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /genotype-vs-phenotype-module
+---
 Below you will see five different variations of embryogenesis of *C.
 elegans* in a movie format. While watching the movies, one interesting
 thing to try is to \"characterize\" all the embryos and see whether you

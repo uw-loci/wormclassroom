@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /focal-planes
+---
 +:---------------------------------:+:---------------------------------:+
 | ![](files/worm/3D.jpg){width="297 | ![](files/worm/CELineage3D.jpg){w |
 | "                                 | idth="223"                        |

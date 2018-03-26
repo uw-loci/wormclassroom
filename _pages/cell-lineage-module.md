@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /cell-lineage-module
+---
 The embryonic cell lineage of *C. elegans* from zygote to hatched larva
 
 provides an excellent tool for learning fundamental principals in

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /construct-a-4d-embryo
+---
 This is the same embryo as the one you just
 [observed](/files/worm/C.%20elegans%20Cell%20Lineage%20to%208-Cell.pdf)
 (PDF ![PDF](/files/worm/pdf.gif){width="15" height="16"}) and

@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /why-study-c-elegans
+---
 Why study *C. elegans* over other, more advanced organisms? The two main
 reasons are commonalities with other organisms, and ease of operation.
 

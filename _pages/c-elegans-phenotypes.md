@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /c-elegans-phenotypes
+---
 ### Wild Type
 
 [![Wildtype hermaphrodite](/files/worm/WTHer.jpg){width="170"

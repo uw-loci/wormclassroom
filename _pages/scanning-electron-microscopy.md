@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /scanning-electron-microscopy
+---
 \[img\_assist\|nid=302\|title=\|desc=\|link=node\|align=none\|width=400\|height=328\]
 
 This is the mouth of a *C. elegans*. The magnification is 3,000X. Click

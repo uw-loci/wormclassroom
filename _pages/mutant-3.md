@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /mutant-3
+---
 Mutant 3
 
 ### Zygote

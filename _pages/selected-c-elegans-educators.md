@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: /selected-c-elegans-educators
+---
 -   [Stephanie Aamodt](http://www.lsus.edu/sc/bios/aamodt.html)
 -   [Taylor Allen](https://www.oberlin.edu/node/5151)
 -   [Kirsten
