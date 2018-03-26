@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genotype vs. Phenotype - Background | WormClassroom
 permalink: /genotype-vs-phenotype-background
 ---
 <div>

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Family Tree vs. Cell Lineage | WormClassroom
 permalink: /family-tree-vs-cell-lineage
 ---
 Think about the development of a human family tree, cells inside *C.

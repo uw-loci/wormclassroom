@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Mutant 3 | WormClassroom
 permalink: /mutant-3
 ---
 Mutant 3

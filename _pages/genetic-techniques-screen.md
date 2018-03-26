@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genetic Techniques - Screen | WormClassroom
 permalink: /genetic-techniques-screen
 ---
 <div>

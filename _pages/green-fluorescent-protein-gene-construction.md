@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Green Fluorescent Protein-Gene Construction | WormClassroom
 permalink: /green-fluorescent-protein-gene-construction
 ---
 GFP is a protein found in *Aequorea victoria*, a bioluminescent

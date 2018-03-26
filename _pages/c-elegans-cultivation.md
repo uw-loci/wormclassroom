@@ -1,5 +1,6 @@
 ---
 layout: page
+title: C. elegans Cultivation | WormClassroom
 permalink: /c-elegans-cultivation
 ---
 Life Cycle {#life-cycle .subtitle}

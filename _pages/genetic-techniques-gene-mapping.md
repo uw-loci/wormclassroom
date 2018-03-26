@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genetic Techniques - Gene Mapping | WormClassroom
 permalink: /genetic-techniques-gene-mapping
 ---
 If you would like to [contribute](contribute) to this page, please

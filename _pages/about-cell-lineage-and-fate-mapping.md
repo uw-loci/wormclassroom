@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Cell Lineage and Fate Mapping | WormClassroom
 permalink: /about-cell-lineage-and-fate-mapping
 ---
 Commonly known as \"worm\" in *C. elegans* research community, it is a

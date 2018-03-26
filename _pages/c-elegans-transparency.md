@@ -1,5 +1,6 @@
 ---
 layout: page
+title: C. elegans Transparency | WormClassroom
 permalink: /c-elegans-transparency
 ---
 Wildtype *C. elegans* Embryo Development

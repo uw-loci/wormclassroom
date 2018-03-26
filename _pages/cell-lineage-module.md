@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Lineage Module | WormClassroom
 permalink: /cell-lineage-module
 ---
 The embryonic cell lineage of *C. elegans* from zygote to hatched larva

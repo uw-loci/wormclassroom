@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Biology | WormClassroom
 permalink: /cell-biology
 ---
 Instructional Materials

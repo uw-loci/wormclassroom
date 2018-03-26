@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Human Family Tree | WormClassroom
 permalink: /human-family-tree
 ---
 What does your family tree look like? What do other people\'s family

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Multiphoton Fluorescence Excitation Microscopy | WormClassroom
 permalink: /multiphoton-fluorescence-excitation-microscopy
 ---
 Multiphoton microscopy is used to generate high resolution optical

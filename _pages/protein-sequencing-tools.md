@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Protein Sequencing Tools | WormClassroom
 permalink: /protein-sequencing-tools
 ---
 Here are some brief instructions for using some amino acid sequencing

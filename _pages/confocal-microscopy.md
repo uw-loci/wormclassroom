@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Confocal Microscopy | WormClassroom
 permalink: /confocal-microscopy
 ---
 Confocal microscopy is used for imaging fluorescent signals, usually in

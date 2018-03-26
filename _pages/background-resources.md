@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Background Resources | WormClassroom
 permalink: /background-resources
 ---
 Background information such as what a cell lineage is, how a cell

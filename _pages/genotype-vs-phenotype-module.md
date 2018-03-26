@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genotype vs. Phenotype Module | WormClassroom
 permalink: /genotype-vs-phenotype-module
 ---
 Below you will see five different variations of embryogenesis of *C.

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Measuring Size | WormClassroom
 permalink: /measuring-size
 ---
 [[You]{style="color: #000000;"}]{style="color: #009f00;"} might have

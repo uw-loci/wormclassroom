@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Real Movie vs. Animation | WormClassroom
 permalink: /real-movie-vs-animation
 ---
 Movies on the top show a *C. elegans* embryo dividing from 1-cell to

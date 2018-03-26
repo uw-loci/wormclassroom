@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Developmental Biology | WormClassroom
 permalink: /developmental-biology
 ---
 Instructional Materials

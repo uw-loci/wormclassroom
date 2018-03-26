@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Lab Environment and Growth Conditions | WormClassroom
 permalink: /lab-environment-and-growth-conditions
 ---
 <div>

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Evolutionary Biology Research Labs | WormClassroom
 permalink: /evolutionary-biology-research-labs
 ---
 <div>

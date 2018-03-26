@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Focal Planes | WormClassroom
 permalink: /focal-planes
 ---
 +:---------------------------------:+:---------------------------------:+

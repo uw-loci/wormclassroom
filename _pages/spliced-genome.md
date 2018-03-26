@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Spliced Genome | WormClassroom
 permalink: /spliced-genome
 ---
 <div>

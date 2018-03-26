@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genetics Questions | WormClassroom
 permalink: /genetics-questions
 ---
 These questions are not intended to test your knowledge but rather to

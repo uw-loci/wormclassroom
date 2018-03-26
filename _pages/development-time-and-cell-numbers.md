@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Development Time and Cell Numbers | WormClassroom
 permalink: /development-time-and-cell-numbers
 ---
 A 4D movie (3D plus time) that contains time lapse images of

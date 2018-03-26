@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genetic Techniques - RNAi | WormClassroom
 permalink: /genetic-techniques-rnai
 ---
 <div>

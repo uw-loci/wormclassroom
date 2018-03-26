@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Wild Type 2-8 Cell Embryo | WormClassroom
 permalink: /wild-type-2-8-cell-embryo
 ---
 ### 2-cell Embryo

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Division Animations | WormClassroom
 permalink: /cell-division-animations
 ---
 Provided are two animations. The upper one illustrates common phenomena

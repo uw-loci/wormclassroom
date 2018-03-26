@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Registration Required | WormClassroom
 permalink: /registration-required
 ---
 ::: {.node}

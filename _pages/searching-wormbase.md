@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Searching WormBase | WormClassroom
 permalink: /searching-wormbase
 ---
 -   The [WormBase home page](http://www.wormbase.org) provides a quick

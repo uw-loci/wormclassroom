@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Protein Information | WormClassroom
 permalink: /protein-information
 ---
 Notes from the researcher:

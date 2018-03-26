@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Division and Polarity | WormClassroom
 permalink: /cell-division-and-polarity
 ---
 Symmetric vs. Asymmetric Cell Division

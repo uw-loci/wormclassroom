@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Biology Questions | WormClassroom
 permalink: /cell-biology-questions
 ---
 These questions are not intended to test your knowledge, but rather to

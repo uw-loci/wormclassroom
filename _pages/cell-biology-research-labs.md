@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Cell Biology Research Labs | WormClassroom
 permalink: /cell-biology-research-labs
 ---
 ### Cell Division & Cell Polarity {#cell-division-cell-polarity .title}

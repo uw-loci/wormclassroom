@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Other Model Organisms | WormClassroom
 permalink: /other-model-organisms
 ---
 Eukaryotic

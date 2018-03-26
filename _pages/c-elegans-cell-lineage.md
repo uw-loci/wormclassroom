@@ -1,5 +1,6 @@
 ---
 layout: page
+title: C. elegans Cell Lineage | WormClassroom
 permalink: /c-elegans-cell-lineage
 ---
 Below is the opportunity for you to lineage the embryo development of

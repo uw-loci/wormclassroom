@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Genetics | WormClassroom
 permalink: /genetics
 ---
 Instructional Materials

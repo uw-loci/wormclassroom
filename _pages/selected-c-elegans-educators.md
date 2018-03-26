@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Selected C. elegans Educators | WormClassroom
 permalink: /selected-c-elegans-educators
 ---
 -   [Stephanie Aamodt](http://www.lsus.edu/sc/bios/aamodt.html)

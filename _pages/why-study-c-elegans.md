@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Why Study C. elegans? | WormClassroom
 permalink: /why-study-c-elegans
 ---
 Why study *C. elegans* over other, more advanced organisms? The two main

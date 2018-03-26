@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Worm Movie | WormClassroom
 permalink: /worm-movie
 ---
  

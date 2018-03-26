@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Annotated Movies | WormClassroom
 permalink: /annotated-movies
 ---
 -   **Wild Type**

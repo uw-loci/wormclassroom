@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Antibody-Specific Labeling | WormClassroom
 permalink: /antibody-specific-labeling
 ---
 Antibodies (Ab)

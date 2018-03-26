@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Page Not Found | WormClassroom
 permalink: /page-not-found
 ---
 ::: {.node}

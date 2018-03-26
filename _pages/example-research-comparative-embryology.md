@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Example Research - Comparative Embryology | WormClassroom
 permalink: /example-research-comparative-embryology
 ---
 It has long been hypothesized that small changes in the pattern of cell

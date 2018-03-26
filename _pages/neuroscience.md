@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Neuroscience | WormClassroom
 permalink: /neuroscience
 ---
 Instructional Materials

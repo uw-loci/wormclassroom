@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Unspliced Genome | WormClassroom
 permalink: /unspliced-genome
 ---
 -   Try to combine the info here with the **[Spliced

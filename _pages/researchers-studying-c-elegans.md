@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Researchers Studying C. elegans | WormClassroom
 permalink: /researchers-studying-c-elegans
 ---
 ### Worm Researchers

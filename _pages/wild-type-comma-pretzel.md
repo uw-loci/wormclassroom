@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Wild Type Comma-Pretzel | WormClassroom
 permalink: /wild-type-comma-pretzel
 ---
 The reason for the jump from the \"8 cell embryo\" to \"comma-stage

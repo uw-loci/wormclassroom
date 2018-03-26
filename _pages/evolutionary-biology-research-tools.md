@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Evolutionary Biology Research Tools | WormClassroom
 permalink: /evolutionary-biology-research-tools
 ---
 In *C. elegans*, most workers are working on comparative developmental

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Contribute | WormClassroom
 permalink: /contribute
 ---
 Have something to add? **[Contribute to

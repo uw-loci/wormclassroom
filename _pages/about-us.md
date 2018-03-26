@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About Us | WormClassroom
 permalink: /about-us
 ---
 **Project Lead**

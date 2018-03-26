@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Example Research - Cell Lineage | WormClassroom
 permalink: /example-research-cell-lineage
 ---
 Being transparent and amenable to laboratory manipulation, *C. elegans*

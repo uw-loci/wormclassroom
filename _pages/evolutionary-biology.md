@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Evolutionary Biology | WormClassroom
 permalink: /evolutionary-biology
 ---
 Instructional Materials

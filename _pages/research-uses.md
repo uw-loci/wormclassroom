@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Research Uses | WormClassroom
 permalink: /research-uses
 ---
 ### Fundamental Questions Pursued

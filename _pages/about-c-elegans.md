@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About C. elegans | WormClassroom
 permalink: /about-c-elegans
 ---
 ### *C. elegans*: the worm

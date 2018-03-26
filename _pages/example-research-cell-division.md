@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Example Research - Cell Division | WormClassroom
 permalink: /example-research-cell-division
 ---
 How does a cell manage to divide into two cells? Why are development

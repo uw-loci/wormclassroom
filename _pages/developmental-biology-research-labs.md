@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Developmental Biology Research Labs | WormClassroom
 permalink: /developmental-biology-research-labs
 ---
 <div>

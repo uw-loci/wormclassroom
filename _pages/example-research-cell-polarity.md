@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Example Research - Cell Polarity | WormClassroom
 permalink: /example-research-cell-polarity
 ---
 The uneven division during the first cell cycle of *C. elegans*

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Welcome | WormClassroom
 permalink: /welcome
 ---
 WormClassroom is intended to serve as an education portal for the

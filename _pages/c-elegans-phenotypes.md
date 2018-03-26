@@ -1,5 +1,6 @@
 ---
 layout: page
+title: C. elegans Phenotypes | WormClassroom
 permalink: /c-elegans-phenotypes
 ---
 ### Wild Type

@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Mutant 2 | WormClassroom
 permalink: /mutant-2
 ---
 ### Zygote

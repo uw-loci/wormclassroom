@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Multidisciplinary Questions | WormClassroom
 permalink: /multidisciplinary-questions
 ---
 These questions are not intended to test your knowledge but rather to
