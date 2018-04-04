@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div  id ="schedulebody" class="wrapper" style="background-color: #ffffff;">
+		<div class="container">
+			<div class="col-md-12" align="center" id="events"> 
+				{{#events}}
+				<div class="event" style="color: #333;border-top: 1px solid #efefef; clear:	both; font-size: 1em;">
+					<div style="width: 30%;padding: 5px 5px 0 0;align-items: right;	">
+						<p style="float:right; clear:right;">{{day}}</p>
+						<p style="float:right; clear:right;">{{hours}}:{{minutes}}</p>
+					</div>
+					<div style="width: 70%;padding: 5px 0 0 20px;">
+						<p style="float:left; clear:left;font-size: 1.1em;font-weight: bold;color: #c5050c">{{heading}}</a></p>
+						<p style="float:left; clear:left;text-align: left;">{{short_des}}</p>
+						<p style="float:left; clear:left;font-size: 1.05em;color: #c5050c">{{location}}</a></p>
+					</div>
+				</div>
+				{{/events}}
+			</div>
+		</div>
+	</div>
+
+<!-- 	<script type="text/javascript">
+		$(function () {
+			$.getJSON('data.json',function(data){
+		    	//converting string date to javascript date
+		    	for (var i=0; i<data.events.length; i++){
+		    		var date_string	=	data.events[i].date_time;
+		    		var date	=	new Date(date_string);
+		    		var day	=	date.getDate();
+		    		var hours	=	date.getHours();
+		    		var minutes	=	date.getMinutes();
+		    		data.events[i].day	=	date;
+		    		data.events[i].hours	=	hours;
+		    		data.events[i].minutes	=	minutes;
+		    	}
+
+		    	function custom_sort(a, b) {
+		    		return new Date(a.date_time).getTime() - new Date(b.date_time).getTime();
+		    	}
+		    	data.events.sort(custom_sort);
+		    	var template  = $('#scheduletpl').html();
+		    	var html =  Mustache.to_html(template,  data);
+		    	$('#schedulebody').html(html);
+		    });
+		});
+	</script> -->

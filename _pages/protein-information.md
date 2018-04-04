@@ -1,0 +1,244 @@
+---
+layout: page
+title: Protein Information | WormClassroom
+permalink: /protein-information
+---
+Notes from the researcher:
+
+-   The researcher (Dr. [Kevin
+    O'Connell](https://www.niddk.nih.gov/NIDDKLabs/IntramuralFaculty/OConnellKevin.htm))
+    who provided these data proposed that the defect in the protein
+    level is in a specific kinase.
+-   The 3D structure for these amino acid sequences is unknown.
+-   The amino acid sequence of a protein consists of various numbers of
+    amino acids. For example, Arg stands for Arginine, Pro means
+    proline. You can find the conversion from one amino acid to its
+    Letter symbol in any molecular biology textbook, such as
+    \[no-glossary\]Benjamin Lewin's **Genes** series.\[/no-glossary\]
+
+Thoughts:
+
+-   Some interesting questions might be raised while combining
+    information from the "Genome Info" page and this page, such as the
+    length of amino acid sequence and the number of codons in genome
+    sequence. See whether you can have some other insights.
+-   By combining the information here with the "Genome Info" page, you
+    can also compare the DNA codon to the amino acid sequence, some
+    interesting relationship might be found.
+-   Tools for sequences comparison are provided down in the bottom of
+    this page. For each program, you can simply copy and paste the
+    sequence of your interest to any of the programs and see how
+    sequences differ from each other. See whether you can gain some
+    insight on the difference.
+
+ 
+
+[Movie Subject]{style="color: #800000;"}
+
+<div>
+
+[Length of this Kinase (amino acids)]{style="color: #800000;"}
+
+</div>
+
+<div>
+
+[Amino acid sequences]{style="color: #800000;"}
+
+</div>
+
+<div>
+
+[WT]{style="color: #000000;"}
+
+</div>
+
+<div>
+
+706
+
+</div>
+
+<div>
+
+MSGGKSGSRL SAYSHLKEIG KGGFGVVYAA QRENGEKVAI KRIDKKVPKN RVWTEIQTMK
+ELKKSKYVVE FYEDFVEDGY TYIVMELCEG GSLQAYVREH GALDDATAVH VLRQLISAVS
+FMHRVNVIHR DLSAGNVFIK DSKKKKMTVK LGDFGLATTL GRGETTCTIV GTPGFIAPQV
+YDQEYTQSAD VYSLGAVLYT MLTARNPPPK GLPPTCGMSP NAARLVEQMM DTDAKKRIPL
+TQIVLSEFMY ENTNENAVIF SREHSRDGRR QRSREPVRSS RDDRSRDGRA LIRSSSQPAH
+SGRAPLSNRP IHDRMPSTSS RGFDSERGRE RDRDSGRGTV PPSREDRNRS QLWPIRMDRL
+EGQRVCTAGG RYIVELDTRC RFEVAAQGNF VKRILIVEVD EMVQTVYVHR IPDRTVRGRN
+GEEELITLTN NPFVYTSYSQ MPKEVQNDYM RLQKMVAVTI SGRVAKVTFR RPSQFPDAQA
+QLMENGDLRI KLPRSVIVRK MDNGEIFNCI DGIATQKQAV SGITLTKVNE VYKYLIRFEQ
+CLNGMDRGMV CFPIVFSAGT NMVGSSPSSL MPSGSSQTSR FPFSNLSNNQ PSLVPHSAPF
+LTKPTSSQRA SSANVQRRVS TDENSSPSVA PSKYKIKIDP TTQKVRSIQA TDGRVLRCST
+SKADQFIFTD PAIRPDDQRF MRTDRVPDRA SEMLHTLCER MRKLHQ
+
+</div>
+
+<div>
+
+[Mutant 1 ]{style="color: #000000;"}
+
+</div>
+
+<div>
+
+706
+
+</div>
+
+<div>
+
+MSGGKSGSRL SAYSHLKEIG KGGFGVVYAA QRENGEKVAI KRIDKKVPKN RVWTEIQTMK
+ELKKSKYVVE FYEDFVEDGY TYIVMELCEG GSLQAYVREH GALDDATAVH VLRQLISAVS
+FMHRVNVIHR DLSAGNVFIK DSKKKKMTVK LGDFGLATTL GRGETTCTIV GTPGFIAPQV
+YDQEYTQSAD VYSLGAVLYT MLTARNPPPK GLPPTCGMSP NAARLVEQMM DTDAKKRIPL
+TQIVLSEFMY ENTNENAVIF SREHSRDGRR QRSREPVRSS RDDRSRDGRA LIRSSSQPAH
+SGRAPLSNRP IHDRMPSTSS RGFDSERGRE RDRDSGRGTV PPSREDRNRS QLWPIRMDRL
+EGQRVCTAGG QYIVELDTRC RFEVAAQGNF VKRILIVEVD EMVQTVYVHR IPDRTVRGRN
+GEEELITLTN NPFVYTSYSQ MPKEVQNDYM RLQKMVAVTI SGRVAKVTFR RPSQFPDAQA
+QLMENGDLRI KLPRSVIVRK MDNGEIFNCI DGIATQKQAV SGITLTKVNE VYKYLIRFEQ
+CLNGMDRGMV CFPIVFSAGT NMVGSSPSSL MPSGSSQTSR FPFSNLSNNQ PSLVPHSAPF
+LTKPTSSQRA SSANVQRRVS TDENSSPSVA PSKYKIKIDP TTQKVRSIQA TDGRVLRCST
+SKADQFIFTD PAIRPDDQRF MRTDRVPDRA SEMLHTLCER MRKLHQ
+
+</div>
+
+<div>
+
+[Mutant 2 ]{style="color: #000000;"}
+
+</div>
+
+<div>
+
+706
+
+</div>
+
+<div>
+
+MSGGKSGSRL SAYSHLKEIG KGGFGVVYAA QRENGEKVAI KRIDKKVPKN RVWTEIQTMK
+ELKKSKYVVE FYEDFVEDGY TYIVMELCEG GSLQAYVREH GALDDATAVH VLRQLISAVS
+FMHRVNVIHR DLSAGNVFIK DSKKKKMTVK LGDFGLATTL GRGETTCTIV GTPGFIAPQV
+YDQEYTQSAD VYSLGAVLYT MLTARNPPPK GLPPTCGMSP NAARLVEQMM DTDAKKRIPL
+TQIVLSEFMY ENTNENAVIF SREHSRDGRR QRSREPVRSS RDDRSRDGRA LIRSSSQPAH
+SGRAPLSNRP IHDRMPSTSS RGFDSERGRE RDRDSGRGTV PPSREDRNRS QLWPIRMDRL
+EGQRVCTAGG RYIVELDTRC RFEVAAQGNF VKRILIVEVD EMVQTVYVHR IPDRTVRGRN
+GEEELITLTN NLFVYTSYSQ MPKEVQNDYM RLQKMVAVTI SGRVAKVTFR RPSQFPDAQA
+QLMENGDLRI KLPRSVIVRK MDNGEIFNCI DGIATQKQAV SGITLTKVNE VYKYLIRFEQ
+CLNGMDRGMV CFPIVFSAGT NMVGSSPSSL MPSGSSQTSR FPFSNLSNNQ PSLVPHSAPF
+LTKPTSSQRA SSANVQRRVS TDENSSPSVA PSKYKIKIDP TTQKVRSIQA TDGRVLRCST
+SKADQFIFTD PAIRPDDQRF MRTDRVPDRA SEMLHTLCER MRKLHQ
+
+</div>
+
+<div>
+
+[Mutant 3 ]{style="color: #000000;"}
+
+</div>
+
+<div>
+
+615
+
+</div>
+
+<div>
+
+MSGGKSGSRL SAYSHLKEIG KGGFGVVYAA QRENGEKVAI KRIDKKVPKN RVWTEIQTMK
+ELKKSKYVVE FYEDFVEDGY TYIVMELCEG GSLQAYVREH GALDDATAVH VLRQLISAVS
+FMHRVNVIHR DLSAGNVFIK DSKKKKMTVK LGDFGLATTL GRGETTCTIV GTPGFIAPQV
+YDQEYTQSAD VYSLGAVLYT MLTARNPPPK GLPPTCGMSP NAARLVEQMM DTDAKKRIPL
+TQIVLSEFMY ENTNENAVIF SREHSRDGRR QRSREPVRSS RDDRSRDGRA LIRSSSQPAH
+SGRAPLSNRP IHDRMPSTSS RGFDSERGRE RDRDSGRGTV PPSREDRNRS QLWPIRMDRL
+EGQRVCTAGG RYIVELDTRC RFEVAAQGNF VKRILIVEVD EMVQTVYVHR IPDRTVRGRN
+GEEELITLTN NPFVYTSYSQ MPKEVQNDYM RLQKMVAVTI SGRVAKVTFR RPSQFPDAQA
+QLMENGDLRI KLPRSVIVRK MDNGEIFNCI DGIATQKQAV SGITLTKVNE VYKYLIRFEQ
+CLNGMDRGMV CFPIVFSAGT NMVGSSPSSL MPSGSSQTSR FPFSNLSNNQ PSLVPHSAPF
+LTKPTSSQRA SSANV
+
+</div>
+
+<div>
+
+[Mutant 4 ]{style="color: #000000;"}
+
+</div>
+
+<div>
+
+684
+
+</div>
+
+<div>
+
+MSGGKSGSRL SAYSHLKEIG KGGFGVVYAA QRENGEKVAI KRIDKKVPKN RVWTEIQTMK
+ELKKSKYVVE FYEDFVEDGY TYIVMELCEG GSLQAYVREH GALDDATAVH VLRQLISAVS
+FMHRVNVIHR DLSAGNVFIK DSKKKKMTVK LGDFGLATTL GRGETTCTIV GTPGFIAPQV
+YDQEYTQSAD VYSLGAVLYT MLTARNPPPK GLPPTCGMSP NAARLVEQMM DTDAKKRIPL
+TQIVLSEFMY ENTNENAVIF SREHSRDGRR QRSREPVRSS RDDRSRDGRA LIRSSSQPAH
+SGRAPLSNRP IHDRMPSTSS RGFDSERGRE RDRDSGRGTV PPSREDRNRS QLWPIRMDRL
+EGQRVCTAGG RYIVELDTRC RFEVAAQGNF VKRILIVEVD EMVQTVYVHR IPDRTVRGRN
+GEEELITLTN NPFVYTSYSQ MPKEVQNDYM RLQKMVAVTI SGRVAKVTFR RPSQFPDAQA
+QLMENGDLRI KLPRSVIVRK MDNGEIFNCI DGIATQKQAV SGITLTKVNE VYKYLIRFEQ
+CLNGMDRGMV CFPIVFSAGT NMVGSSPSSL MPSGSSQTSR FPFSNLSNNQ PSLVPHSAPF
+LTKPTSSQRA SSANVQRRVS TDENSSPSVA PSKYKIKIDP TTQKVRSIQA TDGRVLRCST
+SKADQFIFTD PAIRPDDQRF MRTD
+
+</div>
+
+\* Wondering where the wild type sequence is from? Try
+[WormBase](http://www.wormbase.org/). Brief instructions on how to
+search can be found
+[here](http://wormclassroom.org/Modules/GenoPhenotype/html/Worm_Ins.html).
+
+<div style="text-align: center;">
+
+**[Tools]{style="color: #800000;"}**
+
+</div>
+
+<div>
+
+Name of the program
+
+</div>
+
+<div>
+
+Brief description of each tool
+
+</div>
+
+[LALIGN](http://www.ch.embnet.org/software/LALIGN_form.html)
+
+-    Be able to compare two protein sequences or DNA sequences.
+-    Will show the percentage of identity between two sequences.
+
+<div>
+
+[SIM+LALNVIEW](http://web.expasy.org/error/removed.html)
+
+</div>
+
+-   Be able to compare two protein or DNA sequences.
+-   Also show the percentage of identity between two sequences.
+
+<div>
+
+[DOTLET](http://ccg.vital-it.ch/java/dotlet/Dotlet.html)
+
+</div>
+
+-   Be able to compare two protein or DNA sequences. Also, some advanced
+    function like comparing DNA to protein sequences.
+-   With graphics to show the identity and alignment between sequences.
+
+Note: For PC users only.
+
+[Brief instructions](protein-sequencing-tools) to get started using
+these programs.

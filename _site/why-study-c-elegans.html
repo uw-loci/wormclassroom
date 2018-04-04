@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- <title>Worm Classroom</title> -->
+  <title>Why Study C. elegans? | WormClassroom</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/why-study-c-elegans">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->  
+  <!-- <script src="js/jquery-1.11.3.min.js"></script>  -->
+  <!-- <script src="js/bootstrap.js"></script> -->
+  <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js" type="text/javascript"></script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <script src="js/jquery-1.11.3.min.js"></script> 
+  <!-- Include all compiled plugins (below), or include individual files as needed --> 
+  <script src="js/bootstrap.js"></script>
+
+</head>
+<body style="background-color:lightgrey">
+	<!-- <aside>
+	<div class="container">
+		<nav>
+			<ul>
+				                                                                                                                                                                                                          
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<div>
+		<h1><a href="/">Worm Classroom</a></h1>
+	</div>
+</header> -->
+
+<div style="height:100px;background-color:#c5050c;" align="center">
+  <p id="heading" style="color:#fff;">
+    WormClassroom
+  </p>
+</div>
+<nav class="navbar navbar-inverse"  style="background-color:#c5050c; border: none;border-radius: 0px">
+  <div class="container-fluid"  > 
+    <div class="collapse navbar-collapse " id="myInverseNavbar2">
+      <ul class="nav navbar-nav nav-justified nav-tabs ">
+        <li><a href="index.html" class='active'>Home</a></li>
+        <li><a href="intruction_catelog.html">Instructional Material</a></li>
+        <li><a href="research_catalog.html">Research</a></li>
+        <li><a href="contributors.html">Contributors</a></li>
+        <li><a href="glossary.html">Glossary</a></li>
+<!--             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Links <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://www.jfbvzmc.wisc.edu/">sfb mfx</a></li>
+            <li><a href="http://www.sfkbn.wisc.edu/">svmnfv</a></li>
+            <li><a href="http://www.sfmxnf.wisc.edu/soc/">svmn</a></li>
+          </ul>
+        </li> -->
+        <li><a href="http://www.wisc.edu/">Wisconsin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container">
+    	<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Why Study C. elegans? | WormClassroom</h1>
+  </header>
+
+  <div class="post-content">
+    <p>Why study <em>C. elegans</em> over other, more advanced organisms? The two main
+reasons are commonalities with other organisms, and ease of operation.</p>
+
+<h2 id="commonalities"><strong>Commonalities</strong></h2>
+
+<p>Organisms often share similar genes and biological principles. These
+commonalities enable researchers to extrapolate their findings from one
+organism to others.</p>
+
+<p>For example, in human leukemia, large numbers of immature white blood
+cells (WBCs), which normally die before getting into the blood stream,
+are found in patients’ blood circulation. The study of Programmed Cell
+Death (PCD, or apoptosis) in <em>C. elegans</em> might help us to understand
+why these immature WBCs didn’t undergo PCD.</p>
+
+<p>Although it is primitive and small, <em>C. elegans</em> shares many fundamental
+cellular/molecular structures and biological characteristics with more
+advanced organisms.</p>
+
+<ul>
+  <li>It is eukaryotic just like us. (more about <a href="http://www.wiley.com/legacy/college/boyer/0470003790/animations/cell_structure/cell_structure.htm">prokaryotes vs.
+eukaryotes</a>)</li>
+  <li>It has DNA as genetic materials. It produces RNA and protein as
+well.</li>
+  <li>It is a multicellular organism.</li>
+  <li>It develops from an embryo (sperm + egg) to adult using
+developmental processes (e.g.: differentiation &amp; proliferation) that
+are also observed in other higher organisms.</li>
+  <li>It grows, reproduces, gets old and dies.</li>
+  <li>It has a digestive system for eating, a nerve system with a “brain”
+for “learning” and muscles to help it move.</li>
+  <li>Its genome size is small (~ 10 Megabase) with about 40% homology to
+human (3.2 Gigabase).</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[img_assist</td>
+      <td>nid=27</td>
+      <td>title=</td>
+      <td>desc=</td>
+      <td>link=node</td>
+      <td>align=middle</td>
+      <td>width=200</td>
+      <td>height=193]</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="ease-of-operation"><strong>Ease of Operation</strong></h2>
+
+<p>With limited time and lab space, organisms that are easy to grow and
+store make ideal subjects.</p>
+
+<ul>
+  <li>Its size is small. The adult worm is only 1 mm. This makes it
+possible to house large numbers in a laboratory setting. The total
+number of somatic cells in an adult worm is about 959 cells
+comparing to human’s trillions of cells.</li>
+  <li>Its <a href="/image/c-elegans-life-cycle" title="C. elegans Life Cycle">life
+cycle/span</a> is
+short (about 3 days/weeks respectively). This shortens the amount of
+time needed for each experiment and increases the speed of
+scientific progress. Imagine an experimental organism with a life
+cycle of weeks or months (e.g. mice, primates); it would take years
+to gain insight into each research question.</li>
+  <li>It is transparent. This characteristic makes it an excellent tool
+for studying biology questions like cell division and cell lineage
+(a cell’s family tree).</li>
+  <li>It is non-parasitic free-living that feeds on bacteria (e.g. <em>E.
+coli</em>). This makes it safe for use in laboratory settings.</li>
+</ul>
+
+
+  </div>
+
+</article>
+
+    </div>
+  <footer class="text-center">
+    <div class="container well">
+      <div class="row">
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"></span>
+          <h3>About Us</h3>
+          <p></p>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"> </span>
+          <h3>Contact Us</h3>
+          <address>
+            <strong></strong><br>
+            <abbr title="Phone">P: </abbr>
+          </address>
+
+          <address>
+            <strong>adjz,bskjvz,</strong><br>
+            <a href="mailto:adz,nvbs,fz">kazd≤∫√kjzvd</a>
+          </address>
+        </div>
+      </div>
+    </div>
+      <div>
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- <p style="color: #333;">Developed by Sparsh Agarwal</p> -->
+          </div>
+        </div>
+      </div>
+</footer>
+</body>
+</html>
+

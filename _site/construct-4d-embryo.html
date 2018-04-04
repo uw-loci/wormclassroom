@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- <title>Worm Classroom</title> -->
+  <title>Construct a 4D Embryo | WormClassroom</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/construct-4d-embryo">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->  
+  <!-- <script src="js/jquery-1.11.3.min.js"></script>  -->
+  <!-- <script src="js/bootstrap.js"></script> -->
+  <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js" type="text/javascript"></script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <script src="js/jquery-1.11.3.min.js"></script> 
+  <!-- Include all compiled plugins (below), or include individual files as needed --> 
+  <script src="js/bootstrap.js"></script>
+
+</head>
+<body style="background-color:lightgrey">
+	<!-- <aside>
+	<div class="container">
+		<nav>
+			<ul>
+				                                                                                                                                                                                                          
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<div>
+		<h1><a href="/">Worm Classroom</a></h1>
+	</div>
+</header> -->
+
+<div style="height:100px;background-color:#c5050c;" align="center">
+  <p id="heading" style="color:#fff;">
+    WormClassroom
+  </p>
+</div>
+<nav class="navbar navbar-inverse"  style="background-color:#c5050c; border: none;border-radius: 0px">
+  <div class="container-fluid"  > 
+    <div class="collapse navbar-collapse " id="myInverseNavbar2">
+      <ul class="nav navbar-nav nav-justified nav-tabs ">
+        <li><a href="index.html" class='active'>Home</a></li>
+        <li><a href="intruction_catelog.html">Instructional Material</a></li>
+        <li><a href="research_catalog.html">Research</a></li>
+        <li><a href="contributors.html">Contributors</a></li>
+        <li><a href="glossary.html">Glossary</a></li>
+<!--             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Links <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://www.jfbvzmc.wisc.edu/">sfb mfx</a></li>
+            <li><a href="http://www.sfkbn.wisc.edu/">svmnfv</a></li>
+            <li><a href="http://www.sfmxnf.wisc.edu/soc/">svmn</a></li>
+          </ul>
+        </li> -->
+        <li><a href="http://www.wisc.edu/">Wisconsin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container">
+    	<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Construct a 4D Embryo | WormClassroom</h1>
+  </header>
+
+  <div class="post-content">
+    <p>This is the same embryo as the one you just
+<a href="/files/worm/C.%20elegans%20Cell%20Lineage%20to%208-Cell.pdf">observed</a>
+(PDF <img src="/files/worm/pdf.gif" alt="PDF" />{width=”15” height=”16”}) and
+<a href="c-elegans-cell-lineage">lineaged</a>. The lineaging has been completed up
+to 100-cell embryonic stage. You may find it interesting to constuct a
+4D map for the embryonic development using the movies provided below.</p>
+
+<p>* Click on the Focal Plane # links to observe the development for
+individual focal planes; right-click to save.</p>
+
+<h2 id="coding-system">Coding System</h2>
+
+<p>Dr. Sulston’s naming system was followed in lineaging this embryo.
+However, as the embryo divides, the dividing cells becoming smaller and
+the cells’ name becoming longer. Thus, it is difficult to put the whole
+name on the recorded embryo (especially for AB and MS series cells).
+Therefore, a number is used instead of a letter to indicate the location
+for AB and MS series cells. Download the <a href="/files/worm/CodingSystem.pdf">coding
+system</a> (PDF
+<img src="/files/worm/pdf.gif" alt="PDF" />{width=”15” height=”16”}) to see how this was
+done.</p>
+
+<p><strong>[Note:]{style=”color: #cc0000;”}</strong> Only <strong>D</strong> series cells were
+recorded in <strong>black</strong>. Due to the recording imperfection, some of the
+[AB]{style=”color: #ff0000;”} cells were recorded in <strong>black</strong> with
+partial digit showed (like [<strong>57</strong>]{style=”color: #ff0000;”} in the
+upper right corner was recorded as <strong>5</strong> at Time Elapsed 02:28:40 in
+focal plane 3). Please only use the name recorded in
+[red]{style=”color: #ff0000;”} for [AB]{style=”color: #ff0000;”} series
+in the embryonic development.</p>
+
+<p>+———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_1 | ![](files/worm/CECellLineage100_2 |
+| .jpg){width=&quot;250&quot;                 | .jpg" alt="" />{width=”250”                 |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal2_1_410.MOV" title="O |
+| ideo opens in new window">Focal Plane                      | [Focal Plane                      |
+| 1](files/worm/Focal1_1_410.MOV “V | 2</a> (QT,   | pens in new window”) (QT,         |
+| 13 MB)                            | 14 MB)                            |
++———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_3 | ![](files/worm/CECellLineage100_4 |
+| .jpg){width=&quot;250&quot;                 | .jpg" alt="" />{width=”250”                 |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal4_1_410.MOV" title="O |
+| pens in new window">Focal Plane                      | [Focal Plane                      |
+| 3](files/worm/Focal3_1_410.MOV “O | 4</a>              | pens in new window”)              |
+| (QT, 15 MB)                       | (QT, 17 MB)                       |
++———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_5 | ![](files/worm/CECellLineage100_6 |
+| .jpg){width=&quot;250&quot;                 | .jpg" alt="" />{width=”250”                 |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal6_1_410.MOV" title="O |
+| pens in new window">Focal Plane                      | [Focal Plane                      |
+| 5](files/worm/Focal5_1_410.MOV “O | 6</a>              | pens in new window”)              |
+| (QT, 17 MB)                       | (QT, 17 MB)                       |
++———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_7 | ![](files/worm/CECellLineage100_8 |
+| .jpg){width=&quot;250&quot;                 | .jpg" alt="" />{width=”250”                 |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal8_1_410.MOV" title="O |
+| pens in new window">Focal Plane                      | [Focal Plane                      |
+| 7](files/worm/Focal7_1_410.MOV “O | 8</a>              | pens in new window”)              |
+| (QT, 17 MB)                       | (QT, 17 MB)                       |
++———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_9 | ![](files/worm/CECellLineage100_1 |
+| .jpg){width=&quot;250&quot;                 | 0.jpg" alt="" />{width=”250”                |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal10_1_410.MOV  |
+| pens in new window&quot;">Focal Plane                      | [Focal Plane                      |
+| 9](files/worm/Focal9_1_410.MOV “O | 10</a>              | “Opens in new window”)            |
+| (QT, 17 MB)                       | (QT, 16 MB)                       |
++———————————–+———————————–+
+| <img src="files/worm/CECellLineage100_1 | ![](files/worm/CECellLineage100_1 |
+| 1.jpg){width=&quot;250&quot;                | 2.jpg" alt="" />{width=”250”                |
+| height=”255”}                     | height=”255”}                     |
+|                                   |                                   |
+| <a href="files/worm/Focal12_1_410.MOV  |
+|" title="Opens in new window">Focal Plane                      | [Focal Plane                      |
+| 11](files/worm/Focal11_1_410.MOV  | 12</a>            | “Opens in new window”)            |
+| (QT, 15 MB)                       | (QT, 15 MB)                       |
++———————————–+———————————–+</p>
+
+<h2 id="family-tree-for-focal-planes-1-9">Family Tree for Focal Planes 1-9</h2>
+
+<p><img src="/files/worm/CellLineageFocal1_9.jpg" alt="An example family
+tree" />{width=”357” height=”230”}</p>
+
+<p>This family tree was constructed right after the 8th cell appears
+(between 50:00 and 51:00 depending on the focal plane).</p>
+
+<h2 id="family-tree-for-focal-plane-10">Family Tree for Focal Plane 10</h2>
+
+<p><img src="/files/worm/CellLineageFocal10.jpg" alt="Focal Plane 10" />{width=”402”
+height=”230”}</p>
+
+<p>This was constructed right after the 8th cell appears (time point
+00:50:58).</p>
+
+<h2 id="family-tree-for-focal-planes-11--12">Family Tree for Focal Planes 11 &amp; 12</h2>
+
+<p><img src="/files/worm/CellLineageFocal11_12.jpg" alt="" />{width=”402” height=”230”}</p>
+
+<p>This was constructed right after the 8th cell appears (time point
+00:50:59).</p>
+
+<p><strong>Thought:</strong> What does the 4D map look like? At any time point, are
+cells in focal plane 1 also in focal plane 12 or other focal planes?
+Pick a cell (e.g.: AB) and pretend that you are that cell. How big are
+you, where are you and what will you become?</p>
+
+  </div>
+
+</article>
+
+    </div>
+  <footer class="text-center">
+    <div class="container well">
+      <div class="row">
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"></span>
+          <h3>About Us</h3>
+          <p></p>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"> </span>
+          <h3>Contact Us</h3>
+          <address>
+            <strong></strong><br>
+            <abbr title="Phone">P: </abbr>
+          </address>
+
+          <address>
+            <strong>adjz,bskjvz,</strong><br>
+            <a href="mailto:adz,nvbs,fz">kazd≤∫√kjzvd</a>
+          </address>
+        </div>
+      </div>
+    </div>
+      <div>
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- <p style="color: #333;">Developed by Sparsh Agarwal</p> -->
+          </div>
+        </div>
+      </div>
+</footer>
+</body>
+</html>
+

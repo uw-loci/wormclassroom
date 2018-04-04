@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+
+<div class="wrapper" style="background-color: #ffffff;">
+		
+
+		<div class="container">
+			<div class="col-md-12" id="project_details">	
+				{{}}
+		<div style="color: #333">
+			<section>
+				<article>
+					<div style="padding: 10px;padding-top: 0px;margin: 0px;">
+						<header >
+							<h1 style="color: #c5050c;font-weight: bold; margin-top: 0px; ">{{heading}}</h1>
+						</header>
+						<div style="padding-left: 50px;padding-top: 10px;">
+							<article>
+								<h4 style="padding: 10px;">Publications</h4>
+								<nav>
+									<ul>
+										{{#publications}}
+										<a href="{{url}}" style="color: #c5050c;"><li>{{heading}}</li></a>
+										{{/publications}}
+									</ul>
+								</nav>
+								<h4 style="padding: 10px;">Research Summary</h4>
+								<p style="color: #8c8c8c;padding-left: 30px;">{{research_summary}}</p>
+								<p style="padding: 20px;"><img class="size-full wp-image-424 aligncenter" src="images/projects/{{study_img}}" sizes="(max-width: 680px) 100vw, 680px" width="680" height="290"></p>
+								<nav>
+									<h4 style="padding: 10px;">Related Resources</h4>
+									<ul>
+										{{#related_resources}}
+										<li><a href="{{url}}" style="color: #c5050c">{{heading}}</a></li>
+										{{/related_resources}}
+									</ul>
+								</nav>
+								<h4 style="padding: 10px;">Funding</h4>
+								<p style="color: #8c8c8c;padding-left: 30px;">{{funding}}</p>
+							</article>
+							<div></div>
+						</div>
+					</div>
+				</article>
+			</section>
+		</div>
+		{{}}
+			</div>
+		</div>
+
+	</div>
+
+
+<!-- 	<script type="text/javascript">
+		$(function () {
+			$.getJSON('data.json',function(data){
+				for(var i=0; i<data.projects.length;i++){
+					var current_project	=	JSON.stringify(data.projects[i].heading);
+					var name = localStorage.getItem('myStorage');
+					console.log(name);
+					if(current_project==name){
+						data.projects	=	data.projects[i];
+					}
+				}
+				var template  = $('#project_detailtpl').html();
+				var html =  Mustache.to_html(template,  data.projects);
+				$('#project_details').html(html);
+			});
+		});
+	</script> -->

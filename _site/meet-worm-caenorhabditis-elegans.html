@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  
+  <!-- <title>Worm Classroom</title> -->
+  <title>Meet the Worm - Caenorhabditis elegans | WormClassroom</title>
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/meet-worm-caenorhabditis-elegans">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->  
+  <!-- <script src="js/jquery-1.11.3.min.js"></script>  -->
+  <!-- <script src="js/bootstrap.js"></script> -->
+  <script src="https://www.gstatic.com/firebasejs/3.6.4/firebase.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.0.3/jquery.cycle.all.min.js" type="text/javascript"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.3.0/mustache.min.js" type="text/javascript"></script>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+  <script src="js/jquery-1.11.3.min.js"></script> 
+  <!-- Include all compiled plugins (below), or include individual files as needed --> 
+  <script src="js/bootstrap.js"></script>
+
+</head>
+<body style="background-color:lightgrey">
+	<!-- <aside>
+	<div class="container">
+		<nav>
+			<ul>
+				                                                                                                                                                                                                          
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+	<div>
+		<h1><a href="/">Worm Classroom</a></h1>
+	</div>
+</header> -->
+
+<div style="height:100px;background-color:#c5050c;" align="center">
+  <p id="heading" style="color:#fff;">
+    WormClassroom
+  </p>
+</div>
+<nav class="navbar navbar-inverse"  style="background-color:#c5050c; border: none;border-radius: 0px">
+  <div class="container-fluid"  > 
+    <div class="collapse navbar-collapse " id="myInverseNavbar2">
+      <ul class="nav navbar-nav nav-justified nav-tabs ">
+        <li><a href="index.html" class='active'>Home</a></li>
+        <li><a href="intruction_catelog.html">Instructional Material</a></li>
+        <li><a href="research_catalog.html">Research</a></li>
+        <li><a href="contributors.html">Contributors</a></li>
+        <li><a href="glossary.html">Glossary</a></li>
+<!--             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" aria-haspopup="true">Links <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="http://www.jfbvzmc.wisc.edu/">sfb mfx</a></li>
+            <li><a href="http://www.sfkbn.wisc.edu/">svmnfv</a></li>
+            <li><a href="http://www.sfmxnf.wisc.edu/soc/">svmn</a></li>
+          </ul>
+        </li> -->
+        <li><a href="http://www.wisc.edu/">Wisconsin</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+    <div class="container">
+    	<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Meet the Worm - Caenorhabditis elegans | WormClassroom</h1>
+  </header>
+
+  <div class="post-content">
+    <p><em>C. elegans</em> is a free-living, non-parasitic soil nematode that can be
+found throughout the world. It is transparent and about <a href="https://www.cellsalive.com/howbig.htm">1mm in
+size</a>. “Worm” is its nickname.
+Researchers working with <em>C. elegans</em> call themselves “worm people” and
+form the “worm community” of research.</p>
+
+<h3 id="a-quick-peek-at-a-plate-of-c-elegans">A Quick Peek at a Plate of C. elegans</h3>
+
+<div style="width: 350px; height: 255px;" data="/files/worm/AdultYoungHalf.mov" type="div/quicktime" width="350" height="255">
+
+</div>
+
+<ul>
+  <li>Look at the biggest worm, it is an adult worm.</li>
+  <li>The one next to the biggest worm is a larva.</li>
+  <li>There is a scale in the right lower corner to let you understand the
+relative size of the worm.</li>
+  <li>You can also see this adult worm’s head which is toward upper right
+corner.</li>
+  <li>You may notice, <em>C. elegans</em> can move both forward and backward.</li>
+  <li>There is an embryo to the upper left corner.</li>
+  <li>There is also a <a href="files/worm/AdultYoung.mov">larger version</a> of this
+movie.</li>
+</ul>
+
+<h3 id="feed">Feed</h3>
+
+<p><em>C. elegans</em> feeds on bacteria (such as E. coli) or anything else that
+fits in its mouth. Video of a <a href="http://www.mcb.arizona.edu/wardlab/eatingvid.html">worm
+eating</a>.</p>
+
+<h3 id="sexes">Sexes</h3>
+
+<p>There are two sexes, hermaphrodite and male. [fn]Hermaphrodite and
+male diagrams: Wood, W. B. (Ed.). (1988). The nematode <em>Caenorhabditis
+elegans</em>. New York, NY: Cold Spring Harbor Laboratory Press.[/fn]
+[fn]Hermaphrodite colored image:
+<a href="http://www.wormatlas.org/">WormAtlas</a>[/fn]</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[img_assist</td>
+      <td>nid=20</td>
+      <td>title=Hermaphrodite</td>
+      <td>desc=</td>
+      <td>link=none</td>
+      <td>align=none</td>
+      <td>width=400</td>
+      <td>height=52]</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[img_assist</td>
+      <td>nid=19</td>
+      <td>title=Hermaphrodite (color</td>
+      <td> </td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>diagram)</td>
+      <td>desc=</td>
+      <td>link=none</td>
+      <td>align=none</td>
+      <td>width=300</td>
+      <td>height=69]</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[img_assist</td>
+      <td>nid=21</td>
+      <td>title=Male</td>
+      <td>desc=</td>
+      <td>link=none</td>
+      <td>align=none</td>
+      <td>width=300</td>
+      <td>height=61]</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="img_assistnid18titledesclinknonealignrightwidth212height160sex-determination">[img_assist|nid=18|title=|desc=|link=none|align=right|width=212|height=160]Sex Determination</h3>
+
+<p><em>C. elegans</em> has five pairs of autosomes and one pair of sex chromosome.
+Sexual determination in <em>C. elegans</em> is similar to <em>Drosophila</em>; the
+ratio of sex chromosomes to autosomes determines its sex. If the 6th
+chromosome pair is XX, then <em>C. elegans</em> will be a hermaphrodite. A XO
+combination in the 6th chromosome pair will produce a male. XO
+combination in male is the spontaneous loss of X chromosome (XX -&gt;
+XO). When a male crosses with a hermaphrodite, the progeny will be half
+males and half hermaphrodites.</p>
+
+<h3 id="fertilization">Fertilization</h3>
+
+<p>Hermaphrodites can self-fertilize or cross with males. However,
+hermaphrodites cannot fertilize another hermaphrodite. Males can only
+cross with hermaphrodites. Crossing between a male and hermaphrodite
+produces more progeny than the self-fertilization of a hermaphrodite
+(about 350 progeny). [fn]<em>C. elegans</em> nothanks drawing: Hernan
+Espinoza, 7/17/1999[/fn]</p>
+
+<h3 id="life-cycle--life-span">Life Cycle &amp; Life Span</h3>
+
+<p>Its life cycle and life span are about 3 days and 3 weeks, respectively.</p>
+
+<div style="width: 320px; height: 240px;" data="/files/worm/LifeCycle.swf" type="application/x-shockwave-flash" width="320" height="240">
+
+</div>
+
+<table>
+  <tbody>
+    <tr>
+      <td>[img_assist</td>
+      <td>nid=26</td>
+      <td>title=C. elegans life cycle</td>
+      <td>desc=Click for more</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>information</td>
+      <td>link=node</td>
+      <td>align=left</td>
+      <td>width=320</td>
+      <td>height=320]</td>
+    </tr>
+  </tbody>
+</table>
+
+  </div>
+
+</article>
+
+    </div>
+  <footer class="text-center">
+    <div class="container well">
+      <div class="row">
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"></span>
+          <h3>About Us</h3>
+          <p></p>
+        </div>
+        <div class="col-xs-6 col-sm-6 col-lg-4 col-md-4"> <span class="text-right"> </span>
+          <h3>Contact Us</h3>
+          <address>
+            <strong></strong><br>
+            <abbr title="Phone">P: </abbr>
+          </address>
+
+          <address>
+            <strong>adjz,bskjvz,</strong><br>
+            <a href="mailto:adz,nvbs,fz">kazd≤∫√kjzvd</a>
+          </address>
+        </div>
+      </div>
+    </div>
+      <div>
+        <div class="row">
+          <div class="col-xs-12">
+            <!-- <p style="color: #333;">Developed by Sparsh Agarwal</p> -->
+          </div>
+        </div>
+      </div>
+</footer>
+</body>
+</html>
+

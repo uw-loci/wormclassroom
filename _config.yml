@@ -1,0 +1,18 @@
+# Site settings
+title: Worm Classroom
+email: sparshagarwaldtu@gmail.com
+description: >
+  Instructional Website
+baseurl: ""
+url: "http://localhost:4000"
+# twitter_username: sparshagarwal
+github_username:  sparshagarwal
+
+# Build settings
+markdown: kramdown
+theme: minima
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
