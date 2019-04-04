@@ -1,12 +1,11 @@
 # Site settings
 title: Worm Classroom
-email: sparshagarwaldtu@gmail.com
+email: webadmin@loci.wisc.edu
 description: >
   Instructional Website
-baseurl: ""
-url: "http://localhost:4000"
-# twitter_username: sparshagarwal
-github_username:  sparshagarwal
+baseurl: "https://wormclassroom.org"
+url: "https://wormclassroom.org"
+github_username:  uw-loci
 
 # Build settings
 markdown: kramdown
